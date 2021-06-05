@@ -1,2 +1,2 @@
 # shantanu
-This repository contains all project files
+This repository contains all types of project files for collaboration
